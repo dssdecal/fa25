@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Staff
-description: Fall 2024 Academic Development
+description: Fall 2025 Academic Development
 nav_order: 2
 ---
 
 # Staff
-Say HELLO to your Spring 2025 Academic Development Committee! 
+Say HELLO to your Fall 2025 Academic Development Committee! 
 {: .no_toc .text-delta }
 
 Hover over some of our icons to get a different side of our personalities!
