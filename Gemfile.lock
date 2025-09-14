@@ -3,8 +3,10 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
+    base64 (0.3.0)
     colorator (1.1.0)
     concurrent-ruby (1.3.4)
+    csv (3.3.5)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -52,6 +54,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -71,6 +74,8 @@ GEM
       google-protobuf (~> 3.23)
     sass-embedded (1.69.5-arm-linux-androideabi)
       google-protobuf (~> 3.23)
+    sass-embedded (1.69.5-x64-mingw-ucrt)
+      google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86-linux-android)
       google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86_64-darwin)
@@ -87,17 +92,21 @@ PLATFORMS
   aarch64-linux-android
   arm-linux-androideabi
   ruby
+  x64-mingw-ucrt
   x86-linux-android
   x86_64-darwin-23
   x86_64-linux-android
 
 DEPENDENCIES
+  base64
   concurrent-ruby (= 1.3.4)
+  csv
   ffi (= 1.17.0)
   google-protobuf (= 3.25.4)
   jekyll (= 4.3.3)
   jekyll-sass-converter (= 3.0.0)
   just-the-docs (= 0.7.0)
+  logger
   mercenary (= 0.4.0)
   public_suffix (= 6.0.1)
   rake (= 13.2.1)

@@ -9,7 +9,7 @@ nav_order: 2
 Say HELLO to your Fall 2025 Academic Development Committee! 
 {: .no_toc .text-delta }
 
-Hover over some of our icons to get a different side of our personalities!
+<!-- Hover over some of our icons to get a different side of our personalities! -->
 
 <!--
 <p style="font-size:30px">Note: This page is under construction.</p>
@@ -28,6 +28,17 @@ Hover over some of our icons to get a different side of our personalities!
 <div id = "staff-page" class="role flex">
 {% for staffer in sorted_director_by_order %}
 {{ staffer }}
+{% endfor %}
+</div>
+
+
+## Lead TAs 
+{% assign lead_tas = site.staffers | where: 'role', 'Lead TA' %}
+{% assign sorted_lead_tas_by_order = lead_tas | sort: 'order' %}
+
+<div id="staff-page" class="role flex">
+{% for staffer in sorted_lead_tas_by_order %}
+  {{ staffer }}
 {% endfor %}
 </div>
 

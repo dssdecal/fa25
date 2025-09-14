@@ -14,4 +14,6 @@ gem "rexml", "3.3.5"
 gem "unicode-display_width", "2.5.0"
 gem "google-protobuf", "3.25.4"
 gem "ffi", "1.17.0"
-
+gem "csv"
+gem "base64"
+gem "logger"

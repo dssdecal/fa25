@@ -1,11 +1,10 @@
 ---
-title: Week 0 Announcements
-week: 0
-date: 2024-08-19
+title: Week 1 Announcements
+week: 1
+# date: 2025-15-09
 ---
 
-* ⚠️ This site is under construction... stay tuned! ⚠️
-
+* Welcome to DATA 198: Introduction to Real World Data Science!! 
 
 
 

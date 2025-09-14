@@ -29,13 +29,14 @@ This introductory course covers a wide variety of data science concepts, includi
 
 In this course, students will not only develop and refine their technical skills, but also learn from real-world data scientists through panels and speaker events. Data 198: Introduction to Real World Data Science will challenge students and prepare them in the search for post-graduate opportunities, all while maintaining the low-pressure environment of a DeCal that prioritizes learning above all else.
 
-This course is a 2-unit, application-based P/NP class designed as a hands-on supplement for those interested in learning data science at UC Berkeley. Emphasizing concepts that require minimal prior knowledge, the course will guide students through a data science project (undergoing the entire data science lifecycle) which will help you build up your portfolio.  Grading is based on the satisfactory completion of this project, with a few additional checkpoints and weekly mini-vitamins to reinforce learning. 
-
 ### Learning Outcomes 
 * Understand the data science lifecycle and develop core skills in data manipulation, visualization, model development, and model evaluation to make predictions and answer real-world questions.
 * Synthesize data science concepts and apply them collaboratively in industry settings.
 * Develop the ability to communicate complex data-based procedures and findings to academic peers.
 * Understand how to ideate an original project based on personal curiosity and data collection.
+
+This course is a 2-unit, application-based P/NP class designed as a hands-on supplement for those interested in learning data science at UC Berkeley. Emphasizing concepts that require minimal prior knowledge, the course will guide students through a data science project (undergoing the entire data science lifecycle) which will help you build up your portfolio.  Grading is based on the satisfactory completion of this project, with a few additional checkpoints and weekly mini-vitamins to reinforce learning. 
+
 
 ### Prerequisites
 
@@ -46,7 +47,7 @@ The curriculum and format is designed specifically for students who have not pre
 
 You are not alone in this DATA 198: Introduction to Real World Data Science the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions.
 
-Your TA and tutor will be your main point of contact for all course related questions/grade clarifications. The TAs and tutors are here to support you so please lean on your lab TA if you need more support in the class or have any questions/concerns.
+Your TA and tutor will be your main point of contact for all course related questions/grade clarifications. The TAs and tutors are here to support you so please lean on your TA/Tutor if you need more support in the class or have any questions/concerns.
 
 **Important Note**: We don’t use any personal or Berkeley emails to handle **Decal logistics** or requests. Any emails of this form to Facilitator’s or TA’swill be disregarded. 
 - For personal inquiries during the semester, please message your TA on private messaging platforms or their personal Berkeley email.
@@ -57,7 +58,7 @@ Your TA and tutor will be your main point of contact for all course related ques
 
 ### Live Lecture
 
-Live lectures will be held on **Mondays, 6:30PM to 8:30PM, at Evans 60**; students are **expected** to attend live lectures synchronously, as we will not be recording lectures unless enforced otherwise by university guidelines. Slides and lecture examples will be provided on the course website during class time.
+Live lectures will be held on **Mondays, 6:30PM to 8:30PM, at Wurster 120**; students are **expected** to attend live lectures synchronously, as we will not be recording lectures unless enforced otherwise by university guidelines. Slides and lecture examples will be provided on the course website during class time.
 
 ## Grades
 
@@ -65,7 +66,7 @@ Grades will be assigned using the following weighted components.
 
 | **Activity** | **Grade** |
 | Attendance | 30% (First two classes are **mandatory**)|
-| Mini-Vitamins | 20% |
+| Lecture Worksheets | 20% |
 | Checkpoints/Reflections | 20% |
 | Final Project | 30% |
 
@@ -80,10 +81,8 @@ There are up to **two** unexcused absences allowed without penalty. Excused atte
 * Contact your TA and Tutor about your absence 
 * Send a message to <a href = "mailto:dss.data198@gmail.com">dss.data198@gmail.com</a> explaining your absence.
 
-## Mini Vitamins
-We will also have mini-vitamins due the night after each lecture (Monday 11:59PM). These mini-vitamins are graded on *correctness*, and designed to be a quick concept check for the topics covered during lecture. 
-
-You are allowed to collaborate with each other, as well as their TA and tutor on mini-vitamin questions, but you must answer the questions yourselves. Students will submit these mini-vitamins on Bcourses. 
+## Lecture Worksheets
+Lecture topics will be reinforced through 7 weekly worksheets. These are short jupyter notebook assignments that will be given at the beginning of lecture that must be completed by the end of the class session. You will have the opportunity to meet with your TA or tutor for assistance.
 
 ## Assignments 
 
@@ -101,14 +100,14 @@ Projects are designed to be open-ended, and meant for applying the skills, topic
 
 **Late project submissions are deducted 10% for every day they are late.**
 
-**No project submissions of any kind will be accepted after April 21st, as to provide staff with enough time to grade before the final grade submission deadline**
+**No project submissions of any kind will be accepted after December 1st, as to provide staff with enough time to grade before the final grade submission deadline**
 
 **Reminder:** This course is 2 unit P/NP and a grade of 70% or higher is required to pass the course.
 
 
 ## Supervision & Responsibility of Instructor of Record
 
-* The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be TBD
+* The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be Prof. Joshua Grossman
 * The lecturers will share instructional materials with the Instructor of Record, via email/Google Drive, at least two weeks before the instruction, and expect to get feedback, via email/comments on materials within a week. 
     * The lecturers will then have ~5 days to revise and rehearse for new materials.
 * The lecturers will schedule meetings with the Instructor of Record, at least a week before instruction begins, to seek advice and/or explanation on confusing/uncertain concepts.
