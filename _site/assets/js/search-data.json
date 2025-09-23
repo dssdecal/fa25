@@ -8,7 +8,7 @@
   },"1": {
     "doc": "🏠 Home",
     "title": "Week 1 Announcements",
-    "content": "Sep 13 . | Welcome to DATA 198: Introduction to Real World Data Science!! | . | ",
+    "content": "Sep 22 . | Welcome to DATA 198: Introduction to Real World Data Science!! | . | ",
     "url": "/fa25/",
     
     "relUrl": "/"
@@ -22,7 +22,7 @@
   },"3": {
     "doc": "🏠 Home",
     "title": "Week 2",
-    "content": "Sep 22 2 Useful Libraries, Introduction to Pandas, Data Cleaning and Manipulation, Project Group Reveals! 🐼 Readings Pandas 1, Pandas 2, Pandas 3 Demos Pandas Resources Pandas API Reference | ",
+    "content": "Sep 22 2 Useful Libraries, Introduction to Pandas, Data Cleaning and Manipulation, Project Group Reveals! 🐼 Lecture Slides Readings Pandas 1, Pandas 2, Pandas 3 Demos Pandas Resources Pandas API Reference | ",
     "url": "/fa25/#week-2",
     
     "relUrl": "/#week-2"
