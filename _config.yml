@@ -25,14 +25,14 @@ aux_links:
   Textbook: 
     - https://dssdecal.org/textbook
   Syllabus: 
-    - https://docs.google.com/document/d/1jplpNcubSnn50iHd3-IHYnoghgeUT6orisJvtHzEjhM/edit?usp=sharing
+    - https://docs.google.com/document/d/1jplpNcubSnn50iHd3-IHYnoghgeUT6orisJvtHzEjhM/edit?tab=t.0
   Data Science Society at Berkeley:
     - 'https://dssberkeley.org'
-  # bCourses: 
-  #   - https://bcourses.berkeley.edu/courses/1544114
+  bCourses: 
+    - https://bcourses.berkeley.edu/courses/1544114
 
 links: 
-  lectures: 
+  lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1Zqm-7pGHpQ4PV0e1h-nmcTzxHBjeEfdnQ8byrEIP6ac/edit?usp=sharing"
     lecture03: "https://docs.google.com/presentation/d/1zSwZYd4xFIWjoLDmj85nF52fIMqtms82TO6OJU3GMQ4/edit?usp=sharing"
